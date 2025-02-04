@@ -9981,7 +9981,7 @@
                     },
                     children: (0,
                     Le.jsx)("img", {
-                        src: "Meta-Logo-png-2560px-Meta-Logo.png",
+                        src: "2560px-Meta-Logo.png",
                         alt: "logo",
                         className: "meta-logo"
                     })
